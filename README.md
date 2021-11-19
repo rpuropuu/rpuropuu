@@ -1,5 +1,5 @@
 # Chronicle
-Here you can find: Airflow, pySpark, Tabloe, PostgreSQL, Tensorflow (CNN + boxes), pandas, matplotlib, MetaQuotes 4. Also, few projects Data Vault or Anchor Modeling.
+Here you can find: Airflow, pySpark, Tabloe, PostgreSQL, Tensorflow (CNN + boxes), pandas, matplotlib, MetaQuotes 4. Also, few projects Data Vault and Anchor Modeling.
 ______
 **19 Nov, 2021** - Sparkjob (pyspark + postgresql)
 
