@@ -1,5 +1,5 @@
 # Chronicle
-Here is a chronicle of my education.
+Here you can find: Airflow, pySpark, Tabloe, Tensorflow (CNN + boxes), pandas, matplotlib, MetaQuotes 4.
 ______
 **19 Nov, 2021** - Sparkjob (pyspark + postgresql)
 
