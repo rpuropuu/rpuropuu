@@ -24,5 +24,15 @@ ______
 https://github.com/rpuropuu/Project_1/blob/main/first_try/README.md
 https://github.com/rpuropuu/Project_1/blob/main/second_try/README.md
 
+______
+**Feb-Mar, 2021** different exercises in Python, C++
 
+https://github.com/rpuropuu/educational
 
+https://github.com/rpuropuu/exercises
+
+______
+**2012-2015** MetaQuotes 4 (C++ like) for Forex MetaTrader 4
+
+https://github.com/rpuropuu/MetaTrader-4
+______
