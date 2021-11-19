@@ -1,6 +1,18 @@
 # Chronicle
+Here is a chronicle of my education.
+______
+**19 Nov, 2021** - Sparkjob (pyspark + postgresql)
 
+https://github.com/rpuropuu/rpuropuu/blob/main/data/task_taxi.py
+______
+**16 Nov, 2021** - Airflow + pandas (taking info from API, processing in pandas,
+uploading to PostgreSQL 9.4.24)
 
+https://github.com/rpuropuu/rpuropuu/blob/main/data/RickAndMorty.py
+______
+**13 Nov, 2021** - Airflow + Slack bot (sending arise to slack channel)
+
+https://github.com/rpuropuu/rpuropuu/blob/main/data/dag_airflow_slack.py
 ______
 **12 Sep, 2021** - [Project.drawio](https://github.com/rpuropuu/rpuropuu/blob/main/data/Project.drawio)
 (few my projects in one file: Data Vault, Data Vault 2.0, Anchor Modeling)
@@ -25,14 +37,14 @@ https://github.com/rpuropuu/Project_1/blob/main/first_try/README.md
 https://github.com/rpuropuu/Project_1/blob/main/second_try/README.md
 
 ______
-**Feb-Mar, 2021** different exercises in Python, C++
+**Feb-Mar, 2021** - different exercises in Python, C++
 
 https://github.com/rpuropuu/educational
 
 https://github.com/rpuropuu/exercises
 
 ______
-**2012-2015** MetaQuotes 4 (C++ like) for Forex MetaTrader 4
+**2012-2015** - MetaQuotes 4 (C++ like) for Forex MetaTrader 4
 
 https://github.com/rpuropuu/MetaTrader-4
 ______
