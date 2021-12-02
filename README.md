@@ -1,5 +1,10 @@
 # Chronicle
 Here you can find: Airflow, pySpark, Tableau, PostgreSQL, Tensorflow (CNN + boxes), pandas, matplotlib, MetaQuotes 4. Also, few projects Data Vault and Anchor Modeling.
+
+______
+**02 Dec, 2021** - Tableau Dashboard (BI jobs)
+
+https://public.tableau.com/app/profile/derun.grigorii/viz/BI_job_market/Dashboard1?publish=yes
 ______
 **19 Nov, 2021** - Sparkjob (pyspark + postgresql)
 
