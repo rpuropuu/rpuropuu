@@ -1,14 +1,17 @@
 # Chronicle 🖥
 ❗️ *Foreword. Here you can find: Airflow, pySpark, Tableau, PostgreSQL, Tensorflow (CNN + boxes), pandas, matplotlib, MetaQuotes 4. Also, few projects Data Vault and Anchor Modeling.*
+______
+✔️ **08 Dec, 2021** - Tableau Dashboard (Superstore KPI)
 
+https://public.tableau.com/app/profile/rpuropuu/viz/SuperstoreKPI_16389620292240/Dashboard1
 ______
 ✔️ **06 Dec, 2021** - Tableau Dashboard (My resume)
 
-https://public.tableau.com/app/profile/derun.grigorii/viz/rezume_2021/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/rpuropuu/viz/rezume_2021/Dashboard1
 ______
 ✔️ **02 Dec, 2021** - Tableau Dashboard (BI jobs)
 
-https://public.tableau.com/app/profile/derun.grigorii/viz/BI_job_market/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/rpuropuu/viz/BI_job_market/Dashboard1
 ______
 ✔️ **19 Nov, 2021** - Sparkjob (pyspark + postgresql)
 
