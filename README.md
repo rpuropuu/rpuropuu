@@ -1,5 +1,10 @@
 # Chronicle 🖥
-❗️ *Foreword. Here you can find: Airflow, pySpark, Tableau, PostgreSQL, Tensorflow (CNN + boxes), pandas, matplotlib, MetaQuotes 4. Also, few projects Data Vault and Anchor Modeling.*
+❗️ *Foreword. Here you can find: Airflow, pySpark, Tableau, PostgreSQL, Tensorflow (CNN + boxes), pandas, matplotlib, MetaQuotes 4. Also, few projects Data Vault and Anchor Modeling:* 
+[Dimension modeling](https://github.com/rpuropuu/rpuropuu/blob/main/data/DimensionModeling.jpg), 
+[Data Vault](https://github.com/rpuropuu/rpuropuu/blob/main/data/DataVault.jpg), 
+[Data Vault 2.0](https://github.com/rpuropuu/rpuropuu/blob/main/data/DataVault2.0.jpg),
+[Hybrid Model](https://github.com/rpuropuu/rpuropuu/blob/main/data/Hybrid_DV_AM.jpg), 
+[Anchor Modeling](https://github.com/rpuropuu/rpuropuu/blob/main/data/AnchorModeling.jpg).
 ______
 ✔️ **08 Dec, 2021** - Tableau Dashboard (Superstore KPI)
 
@@ -30,6 +35,13 @@ ______
 (few my projects in one file: Data Vault, Data Vault 2.0, Anchor Modeling)
 
 You can open the file here: https://app.diagrams.net/ 
+
+Screenshots: 
+[Dimension modeling](https://github.com/rpuropuu/rpuropuu/blob/main/data/DimensionModeling.jpg), 
+[Data Vault](https://github.com/rpuropuu/rpuropuu/blob/main/data/DataVault.jpg), 
+[Data Vault 2.0](https://github.com/rpuropuu/rpuropuu/blob/main/data/DataVault2.0.jpg),
+[Hybrid Model](https://github.com/rpuropuu/rpuropuu/blob/main/data/Hybrid_DV_AM.jpg), 
+[Anchor Modeling](https://github.com/rpuropuu/rpuropuu/blob/main/data/AnchorModeling.jpg).
 ______
 ✔️ **18 Jun, 2021** - Google Sheets + Pandas = Tableau (first dashboard) 
 
