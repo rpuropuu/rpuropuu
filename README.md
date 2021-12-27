@@ -1,10 +1,55 @@
 # Chronicle 🖥
-❗️ *Foreword. Here you can find: Airflow, pySpark, Tableau, PostgreSQL, Tensorflow (CNN + boxes), pandas, matplotlib, MetaQuotes 4. Also, few projects Data Vault and Anchor Modeling:* 
+❗️ *Foreword. Here you can find: Airflow, pySpark, Tableau, PostgreSQL, Tensorflow (CNN + boxes), pandas, matplotlib, MetaQuotes 4. Also, few projects architecture modeling:* 
 [Dimension modeling](https://github.com/rpuropuu/rpuropuu/blob/main/data/DimensionModeling.jpg), 
 [Data Vault](https://github.com/rpuropuu/rpuropuu/blob/main/data/DataVault.jpg), 
 [Data Vault 2.0](https://github.com/rpuropuu/rpuropuu/blob/main/data/DataVault2.0.jpg),
 [Hybrid Model](https://github.com/rpuropuu/rpuropuu/blob/main/data/Hybrid_DV_AM.jpg), 
 [Anchor Modeling](https://github.com/rpuropuu/rpuropuu/blob/main/data/AnchorModeling.jpg).
+
+
+
+
+______
+✔️ **24 Dec, 2021** - Tableau Dashboard (HH IT-Jobs)
+
+https://public.tableau.com/app/profile/rpuropuu/viz/HHIT-Jobs/HHJobsDark
+______
+✔️ **20 Dec, 2021** - Tableau Dashboard (Sales Overview)
+
+https://public.tableau.com/app/profile/rpuropuu/viz/SalesOverview_16399816290710/SalesOverView
+______
+✔️ **17 Dec, 2021** - Tableau Dashboard (Dark Mode Usage)
+
+https://public.tableau.com/app/profile/rpuropuu/viz/DarkModeUsage/DarkMode
+______
+✔️ **16 Dec, 2021** - Tableau Dashboard (DOTA2 Heroes)
+
+https://public.tableau.com/app/profile/rpuropuu/viz/DOTA2Heroes/ComparisonHeroes
+______
+✔️ **14 Dec, 2021** - Tableau Dashboard (COVID-19 Variants)
+
+https://public.tableau.com/app/profile/rpuropuu/viz/SuperstoreKPIanddetailbar/Dashboard12
+______
+✔️ **14 Dec, 2021** - Tableau Dashboard (COVID-19 Variants)
+
+https://public.tableau.com/app/profile/rpuropuu/viz/COVID-19Variants_16393966692480/Dashboard1
+
+______
+✔️ **13 Dec, 2021** - Tableau Dashboard (Superstore Moonlight)
+
+https://public.tableau.com/app/profile/rpuropuu/viz/SuperstoreMoonlight/Dashboard1
+______
+✔️ **12 Dec, 2021** - Tableau Dashboard (Anime Dashboard)
+
+https://public.tableau.com/app/profile/rpuropuu/viz/AnimeDashboard_16389759603140/Dashboard2
+______
+✔️ **12 Dec, 2021** - Tableau Dashboard (Superstore (viz in one sheet))
+
+https://public.tableau.com/app/profile/rpuropuu/viz/Superstorevizinonesheet/Sheet1
+______
+✔️ **11 Dec, 2021** - Tableau Dashboard (Superstore KPI Design test)
+
+https://public.tableau.com/app/profile/rpuropuu/viz/SuperstoreKPIdesigntest/Dashboard1
 ______
 ✔️ **08 Dec, 2021** - Tableau Dashboard (Superstore KPI)
 
